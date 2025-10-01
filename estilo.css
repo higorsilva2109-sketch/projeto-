@@ -1,0 +1,24 @@
+.html {
+    text-align: center;
+    border: 1px solid black;
+    display: inline-block;
+
+    list-style-position: inside;
+    border: radius 10px;;
+}
+body[
+    header{
+    /* Cor de fundo vermelha escura (carmesim). */
+    background-color: crimson;
+    /* Cor do texto branca. */
+    color: white;
+    /* Adiciona preenchimento (padding) de 20px no topo e na base, e 0 nas laterais. */
+    padding: 20px 0;
+    /* Centraliza o texto dentro do cabeçalho. */
+    text-align: center;
+}
+
+
+    
+
+]
